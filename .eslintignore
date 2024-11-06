@@ -1,0 +1,10 @@
+# Outputs
+src/**/*.js
+src/**/*.js.map
+src/**/*.d.ts
+
+# TS Definition Files
+**/*.d.ts
+
+# Testing files
+**/*.spec.ts

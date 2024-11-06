@@ -1,0 +1,38 @@
+{
+  "api/product/account": {
+    "GET": {
+      "codeResponse": "200",
+      "delay": "1000",
+      "responses": [{
+          "statusCode": "200",
+          "headers": {},
+          "body": [
+            {
+              "prodNro": "19311303929109",
+              "prodNroEdit": "193-11303929-1-09",
+              "currencysymbol": "US$",
+              "clsEstFamDes": "CUENTAS DE AHORRO",
+              "clsEstProdDes": "Ahorro Dólares",
+              "mto": 52021.46
+            },
+            {
+              "prodNro": "19311303929109",
+              "prodNroEdit": "193-44674067-1-09",
+              "currencysymbol": "S/.",
+              "clsEstFamDes": "CUENTAS DE AHORRO",
+              "clsEstProdDes": "Ahorro Dólares",
+              "mto": 10000.65
+            },
+            {
+              "prodNro": "19311303929109",
+              "prodNroEdit": "193-01600535-1-09",
+              "currencysymbol": "S/.",
+              "clsEstFamDes": "CUENTAS DE AHORRO",
+              "clsEstProdDes": "Ahorro Dólares",
+              "mto": 0
+            }
+        ]
+      }]
+    }
+  }
+}
